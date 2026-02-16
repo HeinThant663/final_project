@@ -2,7 +2,8 @@
 /User_Manual/
 *-*.txt
 styles.css
-/Software_Requirement_Specification/*.docx
-/Software_Design_Document/*.docx
-!*final.docx
+/Software_Requirement_Specification/*
+/Software_Design_Document/*
+!/Software_Requirement_Specification/*final.docx
+!/Software_Design_Document/*final.docx
 /**/README.md
